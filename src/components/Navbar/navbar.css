@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #0d6efd;
+}
+
+.nav-link {
+    font-size: 25px;
+    color: #fdfdfd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-link:hover {
+    background-color: #fdfdfd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-link:focus {
+    background-color: #fdfdfd;
+}
