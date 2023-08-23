@@ -14,6 +14,8 @@ Blog Posts Using React.js
 
 - Use Routing and Dynamic routes for posts and useEffect for server side fetching posts. 
 
+# `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
