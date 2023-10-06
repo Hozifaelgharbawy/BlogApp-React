@@ -17,6 +17,7 @@ function App() {
           <Route path="/posts/:id" element={<Postbage />} />
         </Routes>
       </BrowserRouter>
+      
     </div>
   );
 }
