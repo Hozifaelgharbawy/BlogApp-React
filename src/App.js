@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./components/Home/home";
 import Posts from "./components/Posts/posts";
-import Postbage from './components/Posts/postbage';
+import Postbage from "./components/Posts/postbage";
 
 function App() {
   return (
@@ -17,7 +17,6 @@ function App() {
           <Route path="/posts/:id" element={<Postbage />} />
         </Routes>
       </BrowserRouter>
-      
     </div>
   );
 }
